@@ -1,0 +1,29 @@
+
+
+.container {
+    background-color: #F1F1F1;
+    max-width: 500px;
+    padding: 25px;
+}
+
+h2 {
+    color: #104C90;
+}
+
+img {
+    height: 90%;
+    width: auto;
+    padding-bottom: 25px;
+}
+
+.main-header {
+    color: #2E7AD3;
+}
+
+a {
+    color: #FF8000;
+}
+
+p {
+    margin-top: 9px;
+}
