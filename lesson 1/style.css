@@ -1,28 +1,40 @@
 
 
 .container {
-    background-color: #F1F1F1;
-    max-width: 500px;
+    background: #f1f1f1;
+    width: 450px;
     padding: 25px;
+    margin: 0 auto;
 }
 
 h2 {
-    color: #104C90;
-}
+    font-size: 32px;
+    color: #104c90;
+    margin: 0 0 10px 0;
+} 
 
 img {
-    height: 90%;
+    height: 100%;
     width: auto;
     padding-bottom: 25px;
 }
 
 .main-header {
     color: #2E7AD3;
+    font-size: 44px;
+    text-align: center;
 }
 
 a {
     color: #FF8000;
+    font-weight: bold;
 }
+
+a:hover, 
+a:focus {
+    color: #104c90;
+}
+
 
 p {
     margin-top: 9px;
