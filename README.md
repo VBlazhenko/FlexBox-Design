@@ -1,4 +1,4 @@
-# Responsive-Design
+# Flex box Responsiveness
 
 Created this repository to learn how to design websites on different devices e.g., smartphone, tablet ...
 <br>
