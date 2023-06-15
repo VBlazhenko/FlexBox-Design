@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: #111D4A;
+}
+
+
+.main-container {
+    display: flex;
+}
+
+.main-picture {
+    width: 100%;
+    height: auto;
+}
+
+h1 {
+    font-family: "Source Sans Pro";
+    color: #05cbe9;
+}
